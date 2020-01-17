@@ -11,6 +11,20 @@ auto-migrated: 1
 
 ---
 
+# Bay Area Chapter Board
+
+Interested in finding out more? Will contact you with information on the
+first in person chapter board discussion in San Francisco
+
+Submit your info here: <https://goo.gl/forms/ScPCPrlDiQaUZ6cs2>
+
+# Chapter Meetings
+
+Bay Area OWASP Chapter meetings are posted on our meetup\!
+
+Please visit <http://www.meetup.com/Bay-Area-OWASP/> for all chapter
+event information.
+
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
