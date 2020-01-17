@@ -44,12 +44,6 @@ Francisco such as Berkeley and Oakland, and south of San Francisco are
 San Mateo, Palo Alto, and the whole San Jose area. Currently, the Bay
 Area OWASP Chapter covers this whole geographic region.
 
-## Become a Presenter
-
-Submit your talk now for an upcoming OWASP Bay Area Chapter Meeting
-
-[Link to
-submit](https://docs.google.com/a/owasp.org/forms/d/1ImmfY5KtSILjIym1uToOzSmT2Xv58bVzfxUPDAAn9-c/viewform)
 
 ### Notes about OWASP presentations
 
