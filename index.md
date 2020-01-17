@@ -27,6 +27,9 @@ Please change these items to indicate the actual information you wish to present
 
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
+Interested in finding out more? Will contact you with information on the first in person chapter board discussion in San Francisco
+
+Submit your info here: https://goo.gl/forms/ScPCPrlDiQaUZ6cs2 
 ```
 ## Welcome
 Interested in finding out more? Will contact you with information on the first in person chapter board discussion in San Francisco
