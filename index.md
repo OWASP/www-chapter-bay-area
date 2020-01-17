@@ -33,16 +33,7 @@ Check out our meetup page for upcoming events:
 \[<http://www.meetup.com/Bay-Area-OWASP/events/226890416/>? More info on
 meetup.com\]
 
-![Highres_469396345.jpg](Highres_469396345.jpg "Highres_469396345.jpg")
 
-![OWASP_Cali.jpg](OWASP_Cali.jpg "OWASP_Cali.jpg")
-
-![March_2018.jpg](March_2018.jpg "March_2018.jpg")
-
-![<File:OWASP-Bay-Area-Aug-2014.png>](OWASP-Bay-Area-Aug-2014.png
-"File:OWASP-Bay-Area-Aug-2014.png")
-
-Picture is @BenHagen talking about cloud security and applications
 
 # About OWASP Bay Area Chapter
 
