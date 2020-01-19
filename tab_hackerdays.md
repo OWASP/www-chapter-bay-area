@@ -1,3 +1,9 @@
+---
+title: Hackerdays
+tab: true
+order: 1
+tags: Hackerdays-tab
+---
 
 # Bay Area Chapter Board
 
