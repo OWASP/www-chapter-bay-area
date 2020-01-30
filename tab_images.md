@@ -10,4 +10,4 @@ tags: example-tag
 
 Images will be placed here.
 
-<img src="owasp.jpg">
+<img src="assets/images/owasp.jpg">
