@@ -8,6 +8,6 @@ tags: example-tag
 
 ## Example
 
-Images will be placed here.
+Recent meetup pics can be found here.
 
 <img src="assets/images/owasp.jpg">
