@@ -8,4 +8,4 @@ tags: example-tag
 
 ## Example
 
-We organize a unique workshop stlye event called hackerdays.
+We organize a unique workshop stlye event called hackerdays.Follow this page for the next Hackerday announcement.
