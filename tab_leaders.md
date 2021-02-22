@@ -1,11 +1,10 @@
 ---
-title: Leaders
-layout:  null
+title: leaders
+displaytext: Leaders
 tab: true
 order: 1
-tags: Leaders
+tags: bay
 ---
-
 
 Please contact below OWASP Bay Area Chapter Leaders for anything related to chapter activities:- 
 
