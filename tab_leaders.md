@@ -19,9 +19,12 @@ Presently working as Staff Security and Threat Engineer at Kohls Department Stor
 Prashant has BE in Electronics and Communications from Rajiv Gandhi University Bhopal, India.
 </p>
 
-<p>Brendan Higgins</p>
+<p><b>Brendan Higgins</b></p>
 <p style="font-size:15px">
 Presently working as Director of Information security at Pivotal(acquired by VMware)
 Brendan has more than twenty years of experience in Information security. He has worked in various capacity at various organizations like Adobe, Jetform etc. He is a CISSP and a thought leader in Cloud security and IAM domain.  
 Brendan has BE in Industrial Engineering and Information Systems from National University of Ireland
 </p>
+<p><b>Leif Dreizler</b></p>
+<p style="font-size:15px">
+Currently manages the Product Security Team at Segment where he partners with software engineering teams to help build security features. He enjoys helping others grow within the security community and helps organize multiple conferences and meetups. Leif has also spoken at various conferences and appeared on security podcasts. </p>
