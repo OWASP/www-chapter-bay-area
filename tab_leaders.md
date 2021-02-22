@@ -28,6 +28,13 @@ Brendan has BE in Industrial Engineering and Information Systems from National U
 <p><b>Leif Dreizler</b></p>
 <p style="font-size:15px">
 Currently manages the Product Security Team at Segment where he partners with software engineering teams to help build security features. He enjoys helping others grow within the security community and helps organize multiple conferences and meetups. Leif has also spoken at various conferences and appeared on security podcasts. </p>
+<p><b>Tad Whitaker</b></p>
+<p style="font-size:15px">
+Presently working as Engineering Manager - Security at CircleCI
+Apart from being Integral part of the Bay Area OWASP chapter leadership group, Tad is a licensed private investigator and mentors many junior engineers. He is one of the founders of the Day of Shecurity workshop (dayofshecurity.com) designed at making it easier for women to enter the security domain. Tad is also an advisor to the HS(2) STEM program at Colorado Rocky Mountain School.
+Tad has a BS in Journalism from University of Wyoming
+</p>
+
 
 <p><b>Previus Chapter Leaders</b></p>
 <p><b>William Bengtson</p></b>
