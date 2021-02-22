@@ -28,3 +28,14 @@ Brendan has BE in Industrial Engineering and Information Systems from National U
 <p><b>Leif Dreizler</b></p>
 <p style="font-size:15px">
 Currently manages the Product Security Team at Segment where he partners with software engineering teams to help build security features. He enjoys helping others grow within the security community and helps organize multiple conferences and meetups. Leif has also spoken at various conferences and appeared on security podcasts. </p>
+
+<p>Previus Chapter Leaders</p>
+<p><b>William Bengtson</p></b>
+<p style="font-size:15px">
+<p style="font-size:15px">
+Director, Threat Detection and Response at Hashicorp
+</p>
+<p><b>Michael Coates</b></p>
+<p style="font-size:15px">
+Founding CEO of Altitude Networks and former CISO of Twitter
+</p>
