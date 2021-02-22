@@ -37,7 +37,7 @@ Tad has a BS in Journalism from University of Wyoming
 
 
 <p><b>Previus Chapter Leaders</b><br></p>
-<b>William Bengtson</p>
+<p><b>William Bengtson</b></p>
 <p style="font-size:15px">
 Director, Threat Detection and Response at Hashicorp
 </p>
