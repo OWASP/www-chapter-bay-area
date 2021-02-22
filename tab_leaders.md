@@ -15,7 +15,7 @@ Travis’s  open source experience includes serving as lead developer/architect 
 </p>
 <p><b>Prashant k Venkatesh</b></p>
 <p style="font-size:15px">
-Presently working as Staff Security and Threat Engineer at Kohls Department Stores Prashant has overall 17 plus years of experience in Information security. He has been associated with OWASP for more than 8 years in various capacities including been an Honorary member,  founding organizer of OWASP Seasides conference, Call for papers reviewer at OWASP Indonesia conference and Bangalore chapter lead. He has spoken at various conferences like nullcon, c0c0n, Blackhat etc. 
+Presently working as Staff Security and Threat Engineer at Kohls Department Stores.Prashant has overall 17 plus years of experience in Information security. He has been associated with OWASP for more than 8 years in various capacities including been an Honorary member,  founding organizer of OWASP Seasides conference, Call for papers reviewer at OWASP Indonesia conference and Bangalore chapter lead. He has spoken at various conferences like nullcon, c0c0n, Blackhat etc. He has Industry recognized certifications like OSCP, CISSP, CEH and CCSK.
 Prashant has BE in Electronics and Communications from Rajiv Gandhi University Bhopal, India.
 </p>
 
