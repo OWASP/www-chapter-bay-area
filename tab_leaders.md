@@ -3,7 +3,7 @@ title: leaders
 displaytext: Leaders
 tab: true
 order: 4
-tags: bay
+tags: example-tag
 ---
 
 Please contact below OWASP Bay Area Chapter Leaders for anything related to chapter activities:- 
