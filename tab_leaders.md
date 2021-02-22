@@ -29,7 +29,7 @@ Brendan has BE in Industrial Engineering and Information Systems from National U
 <p style="font-size:15px">
 Currently manages the Product Security Team at Segment where he partners with software engineering teams to help build security features. He enjoys helping others grow within the security community and helps organize multiple conferences and meetups. Leif has also spoken at various conferences and appeared on security podcasts. </p>
 
-<p>Previus Chapter Leaders</p>
+<p><b>Previus Chapter Leaders</b></p>
 <p><b>William Bengtson</p></b>
 <p style="font-size:15px">
 <p style="font-size:15px">
