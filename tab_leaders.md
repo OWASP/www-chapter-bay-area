@@ -17,4 +17,11 @@ Travis’s  open source experience includes serving as lead developer/architect 
 <p style="font-size:15px">
 Presently working as Staff Security and Threat Engineer at Kohls Department Stores Prashant has overall 17 plus years of experience in Information security. He has been associated with OWASP for more than 8 years in various capacities including been an Honorary member,  founding organizer of OWASP Seasides conference, Call for papers reviewer at OWASP Indonesia conference and Bangalore chapter lead. He has spoken at various conferences like nullcon, c0c0n, Blackhat etc. 
 Prashant has BE in Electronics and Communications from Rajiv Gandhi University Bhopal, India.
-</p">
+</p>
+
+<p>Brendan Higgins</p>
+<p style="font-size:15px">
+Presently working as Director of Information security at Pivotal(acquired by VMware)
+Brendan has more than twenty years of experience in Information security. He has worked in various capacity at various organizations like Adobe, Jetform etc. He is a CISSP and a thought leader in Cloud security and IAM domain.  
+Brendan has BE in Industrial Engineering and Information Systems from National University of Ireland
+</p>
