@@ -35,8 +35,8 @@ We hold regular events across the OWASP Bay Area.
 Check out our meetup page for upcoming events:
 [<http://www.meetup.com/Bay-Area-OWASP/events/226890416/>
 
-
-
+{% include chapter_events.html group=page.meetup-group %}
+ 
 # About OWASP Bay Area Chapter
 
 ## Geographic Area of Bay Area Chapter
