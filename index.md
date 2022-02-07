@@ -3,12 +3,10 @@
 layout: col-sidebar
 title: OWASP Bay Area
 tags: example-tag
-level: 0
 
 region: North America
 
-
-meetup-group: Bay-Area-OWASP
+meetup-group: Bay-Area-OWASP 
 country: USA
 postal-code: 94105
 
