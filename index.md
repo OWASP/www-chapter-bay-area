@@ -33,7 +33,7 @@ event information.
 We hold regular events across the OWASP Bay Area.
 
 Check out our meetup page for upcoming events:
-[<http://www.meetup.com/Bay-Area-OWASP/events/226890416/>
+[<https://www.meetup.com/Bay-Area-OWASP/>
 
 {% include chapter_events.html group=page.meetup-group %}
  
