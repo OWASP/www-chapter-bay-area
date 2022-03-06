@@ -14,10 +14,12 @@ postal-code: 94105
 
 # Bay Area Chapter Board
 
-Interested in finding out more? Will contact you with information on the
-first in person chapter board discussion in San Francisco
+If you want to know more about the OWASP Bay Area chapter then please mail below chapter leaders:
 
-Submit your info here: <https://goo.gl/forms/ScPCPrlDiQaUZ6cs2>
+* [Prashant KV](mailto:kvprashant@owasp.org)
+* [Brendan Higgins](mailto:Brendan.Higgins@owasp.org)
+* [Siddhartha rao](mailto:siddhartha.rao@owasp.org)
+
 
 # Chapter Meetings
 
