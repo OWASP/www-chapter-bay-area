@@ -18,7 +18,7 @@ If you want to know more about the OWASP Bay Area chapter then please mail below
 
 * [Prashant KV](mailto:kvprashant@owasp.org)
 * [Brendan Higgins](mailto:Brendan.Higgins@owasp.org)
-* [Siddhartha rao](mailto:siddhartha.rao@owasp.org)
+* [Wendy Segura](mailto:wendy.segura@owasp.org)
 
 
 # Chapter Meetings
